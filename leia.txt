@@ -1,3 +1,13 @@
 Olá mundo!
 
+<<<<<<< Updated upstream
 Iniciando cherry-pick
+=======
+Iniciando cherry-pick
+
+<<<<<<< Updated upstream
+Criando branch após o git stash
+=======
+Utilizando git stash agora
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
