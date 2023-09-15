@@ -11,3 +11,4 @@ Criando branch após o git stash
 Utilizando git stash agora
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+utilizando git stash pop
