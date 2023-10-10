@@ -1,2 +1,0 @@
-Trainamento git
-Aprendendo a usar o git stash
